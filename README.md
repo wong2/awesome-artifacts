@@ -11,6 +11,8 @@ Collection of public Claude Artifacts
 
 [Empire Tactics](https://claude.site/artifacts/f41d521c-f502-4477-a8da-4e0126444fd9)
 
+[Endless Space Shooter Game](https://claude.site/artifacts/3ed78cbf-a139-439f-937f-5dd5ab90bfa0)
+
 ## Tools
 
 [Stock Option Call Analyzer](https://claude.site/artifacts/cd452263-d93a-4506-94b6-6dcb9681512f)
